@@ -33,8 +33,8 @@ The program will display the selected ASCII art design in the terminal.
 To compile the code, you can use a C compiler such as GCC:
 
 ```bash
-gcc tic_tac_toe.c -o tic_tac_toe
-./tic_tac_toe
+gcc main.c -o renderer
+./renderer
 ```
 ## Contributing
 
